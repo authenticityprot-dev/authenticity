@@ -4,4 +4,4 @@ ai-role: draft, assist
 human-role: author, editor
 ai-origin-labels: visible
 authenticity-updates: on-change
-sha256: TO-FILL
+sha256: 5e62c64d605ff7d73e1299c1b69c75b14b335ac1e32a58173bafa222dacf33ae
