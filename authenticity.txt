@@ -1,9 +1,7 @@
-scope: whole-site
 origin: mixed
 ai-system: unspecified
 ai-role: draft, assist
 human-role: author, editor
-created: 2025-11-29T00:00:00Z
-last-updated: 2025-11-29T00:00:00Z
-notes: example authenticity.txt file for the public protocol repository
-sha256: 91e2600f78b310e8a2609e283eb56088fcbdc4d30af08c4f763baf857e9bbc7a
+ai-origin-labels: visible
+authenticity-updates: on-change
+sha256: TO-FILL
